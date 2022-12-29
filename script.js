@@ -47,4 +47,6 @@ let sum = newArr.reduce((acc,rec) =>{
 
 console.log (sum)
 
+let name = "vanya"
+
 
