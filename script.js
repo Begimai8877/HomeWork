@@ -49,4 +49,11 @@ console.log (sum)
 
 let name = "vanya"
 
+let str = ""
+
+
+// git init 
+// git add .
+// git commit -m "название"
+// git push
 
